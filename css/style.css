@@ -546,10 +546,10 @@ button:focus {
 }
 .video {
     position: absolute;
-    right: 20%;
+    right: 10%;
     left: 10%;
     width: 100%;
-    height: 80%;
+    height: 60%;
 }
 /*============ video css ==============*/
 
